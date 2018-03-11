@@ -9,7 +9,7 @@ skipDirs = @["tests"]
 
 # Dependencies
 
-requires "nimgen >= 0.1.1"
+requires "nimgen >= 0.1.4"
 
 import distros
 

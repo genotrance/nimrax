@@ -9,9 +9,7 @@ Nimrax can be installed via [Nimble](https://github.com/nim-lang/nimble):
 ```
 > nimble install nimgen
 
-> git clone https://github.com/genotrance/nimrax
-> cd nimrax
-> nimble install
+> nimble install nimrax
 ```
 
 This will download, wrap and install nimrax in the standard Nimble package location, typically ~/.nimble. Once installed, it can be imported into any Nim program.
